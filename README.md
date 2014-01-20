@@ -1,0 +1,1 @@
+A simple [signal generator](http://en.wikipedia.org/wiki/Signal_generator) implementation using an Arduino and an [R-2R DAC](http://en.wikipedia.org/wiki/Resistor_ladder).
